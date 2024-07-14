@@ -1,2 +1,20 @@
-# QR-Code-Generator
-This is the QR code generator website, you can write any thing in input like text or any URL , the website generate the QR Code according to your input. 
+# QR Code Generator
+
+## A simple QR Code Generator application.
+
+## Features
+- Generate QR Code of Any Text.
+- Responsive design.
+
+## Technologies used :
+   1. HTML
+   2. CSS
+   3. JAVASCRIPT
+
+## Author :
+   - Arjun Chavhan
+   - Email: arjunchavhan024@gmail.com
+
+## Link :
+   url : https://qr-code-generator-arjunchavhan024.netlify.app/
+
